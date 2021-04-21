@@ -1,5 +1,5 @@
 # Pi Temperature Clock with MQTT
-This repository holds source code for a simple raspberr-pi based clock that also reads the temperature and humidity.  Everything is also (optionally) sent to a MQTT broker.
+This repository holds source code for a simple raspberry-pi based clock that also reads the temperature and humidity.  Everything is (optionally) sent to a MQTT broker.
 
 <img src="./images/piclock.jpg" width=400>
 
